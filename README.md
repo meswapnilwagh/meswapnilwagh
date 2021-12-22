@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋 , I'm</h1>
 
+ ![](name.png)
 
 <h3 align="left">A Passionate Full Stack Developer from 🇮🇳</h3>
 
