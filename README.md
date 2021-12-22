@@ -23,8 +23,8 @@
 - 📫 How to reach me **wagh.aswapnil@gmail.com**  
 
 
-  
-### Blog Post:
+<h2 align="left">📕 Blog Post:</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [How To Generate &amp; Install SSL Certificate In Apache Web Server On Ubuntu](https://dev.to/meswapnilwagh/how-to-generate-install-ssl-certificate-in-apache-web-server-on-ubuntu-1pbl)
 - [How to Password Protect a Website or Web SubDirectory With .htaccess &amp; .htpasswd](https://dev.to/meswapnilwagh/how-to-password-protect-a-website-or-web-subdirectory-with-htaccess-htpasswd-1e2f)
