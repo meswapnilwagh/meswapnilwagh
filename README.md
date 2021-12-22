@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋 , I'm</h1>
 
+
 <h3 align="left">A Passionate Full Stack Developer from 🇮🇳</h3>
 
  ![](dev2.gif)
@@ -44,9 +45,9 @@
 <h2 align="left">:heavy_check_mark: Top Skills Card:</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meswapnilwagh&show_icons=true&theme=dark&locale=en&layout=compact" alt="meswapnilwagh" /></p>  
 
-<h2 align="left"> :heavy_check_mark: GitHub Readme Streak Stats:</h2>
+<h2 align="left"> 📈 GitHub Readme Streak Stats:</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meswapnilwagh&theme=dark" alt="meswapnilwagh" /></p>
 
-<h2 align="left"> :heavy_check_mark: GitHub Stats Card:</h2>
+<h2 align="left"> 📈 GitHub Stats Card:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meswapnilwagh&show_icons=true&locale=en" alt="meswapnilwagh" /></p>  
   
