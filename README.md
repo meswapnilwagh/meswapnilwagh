@@ -31,7 +31,7 @@
 - [How To Replace a lost Key Pair with new one on an EC2 instance](https://dev.to/meswapnilwagh/how-to-replace-a-lost-key-pair-with-new-one-on-an-ec2-instance-2f30)
 - [How To Deploy NodeJS Apps With PM2 &amp; NGINX In Cluster Mode On Production Environment](https://dev.to/meswapnilwagh/how-to-deploy-nodejs-apps-with-pm2-nginx-in-cluster-mode-on-production-environment-5e96)
 - [How To Deploy NodeJS Apps With PM2 &amp; NGINX In Cluster Mode On Production Environment](https://meswapnilwagh.com/how-to-deploy-nodejs-apps-with-pm2-and-nginx-in-cluster-mode-on-production-environment)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END -->
   
 <h2 align="left"> :iphone: Connect with me:</h2>  
 <p align="left">  
