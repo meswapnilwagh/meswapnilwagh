@@ -26,6 +26,7 @@
 <h2 align="left">📕 Blog Post:</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Access S3 From Private Subnet](https://meswapnilwagh.com/how-to-access-s3-from-private-subnet)
 - [How To Deploy NodeJS Apps With PM2 &amp; NGINX In Cluster Mode On Production Environment](https://meswapnilwagh.com/how-to-deploy-nodejs-apps-with-pm2-and-nginx-in-cluster-mode-on-production-environment)
 - [How To Generate &amp; Install SSL Certificate In Apache Web Server On Ubuntu](https://meswapnilwagh.com/how-to-generate-and-install-ssl-certificate-in-apache-web-server-on-ubuntu)
 - [How To Replace a lost Key Pair with new one on an EC2 instance](https://meswapnilwagh.com/how-to-replace-a-lost-key-pair-with-new-one-on-an-ec2-instance)
