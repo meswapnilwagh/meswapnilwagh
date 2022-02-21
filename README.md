@@ -12,7 +12,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
   
-- 🔭 I’m currently working on [re.life market](https://relife.market)  &  [re.life collect](https://www.relife.com/collect/)  
+- 🔭 I’m currently working on [re.life market](https://relife.market)  &  [re.life collect](https://relifecollect.com/)  
   
 - 🌱 I’m currently learning **Flutter**  
   
